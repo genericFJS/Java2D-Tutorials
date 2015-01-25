@@ -23,7 +23,6 @@ public class Compositing extends JPanel {
         AlphaComposite.SRC_OUT,
     };
 
-
     public void paint(Graphics g) {
 
         Graphics2D g2d = (Graphics2D) g;
